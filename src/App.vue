@@ -17,7 +17,12 @@ const sizes = ref<number>(2)
       width="125"
       height="125"
     />
-  </div>
+  </div>    
+  <div class="text-center">  
+    <h4>Kornkanok Kanchana</h4>
+    <h4>Kornkanok Kanchana</h4>
+    <h4>Kornkanok Kanchana</h4>
+</div>
   <header class="max-h-screen leading-normal">
     <!-- <div class="wrapper"> -->
     <!-- <HelloWorld msg="You did it!" /> -->
