@@ -2,6 +2,6 @@ version: "3.9"
 
 services:
   web:
-    image: "beauti21/se331-lab06:latest"
+    image: "aluxananun/331-lap06-new:latest"
     ports:
       - "8005:80"

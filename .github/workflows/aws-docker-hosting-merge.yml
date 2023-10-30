@@ -23,7 +23,7 @@ jobs:
         with:
           context: .
           push: true
-          tags: beauti21/se331-lab06:latest
+          tags: aluxananun/331-lap06-new:latest
       - name: Copy file via SSH
         uses: appleboy/scp-action@v0.1.4
         with:
